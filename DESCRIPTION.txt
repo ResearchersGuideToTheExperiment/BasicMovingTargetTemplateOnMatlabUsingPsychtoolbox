@@ -1,0 +1,1 @@
+Present moving Gaussian targets with angular trajectories and frame timing logs using MATLAB and Psychtoolbox.
